@@ -1,0 +1,6 @@
+server/technicalanalysis/Indicator.java
+ server.technicalanalysis.Indicator
+server/technicalanalysis/TechnicalAnalysisServerResponseBuilder.java
+ server.technicalanalysis.TechnicalAnalysisServerResponseBuilder
+server/technicalanalysis/TechnicalAnalysisServerResponse.java
+ server.technicalanalysis.TechnicalAnalysisServerResponse
